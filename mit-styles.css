@@ -1,0 +1,63 @@
+
+#masjid-iqamah-timings-widget {
+	font-family:tahoma;
+}
+
+#masjid-iqamah-timings-widget h3 {
+}
+
+#masjid-iqamah-timings-widget p {
+	margin:0 0 10px 0 !important;
+	padding:0 !important;
+	line-height:130% !important;
+}
+
+#masjid-iqamah-timings-widget .mit_note {
+	text-alignt:left;
+}
+
+#masjid-iqamah-timings-widget table {
+	border-collapse:collapse;
+	cell-spacing:0;
+	width:100%;
+	margin:0;
+	padding:0;
+}
+#masjid-iqamah-timings-widget table th {
+	text-align:center;
+	font-weight:bold;
+	padding:5px;
+	color:#FFF;
+	background:#888;
+}
+
+#masjid-iqamah-timings-widget table tr.mit_daily {	background:#CCFFFF;}
+#masjid-iqamah-timings-widget table tr.mit_jumua {	background:#F6FFA3;}
+
+#masjid-iqamah-timings-widget table td {
+	border:1px solid #CCC;
+	padding:5px 8px 5px 8px;
+	text-align:center !important;
+}
+
+#masjid-iqamah-timings-widget table td.mit_label {
+	text-align:left;
+}
+
+#masjid-iqamah-timings-widget table td.mit_time {
+	text-align:right;
+}
+
+#masjid-iqamah-timings-widget .mit_saved {
+	text-align:center;
+	padding:8px 0 8px 0;
+	font-family:verdana;
+	font-size:9px;
+	line-height:15px;		direction:ltr;
+}
+
+
+.urdu { 
+	font-family:Jameel Noori Nastaleeq, Alvi Nastaleeq, Times New Roman; 
+	font-size:120% !important;
+}
